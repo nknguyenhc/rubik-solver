@@ -1,0 +1,434 @@
+Solving puzzle with solution ["R'", "R'", "B'", "D'", 'F', "L'", 'D', 'L', "U'", "U'", "R'", "F'"] for coeff 0.0
+Time taken: 10, solution: None
+Solving puzzle with solution ["F'", "L'", 'B', 'B', 'R', "D'", "D'", "F'", 'R', "U'", "L'", "L'"] for coeff 0.0
+Time taken: 10, solution: None
+Solving puzzle with solution ["U'", "B'", 'L', "B'", 'D', "R'", "F'", "F'", "R'", "D'", 'F', "L'"] for coeff 0.0
+Time taken: 10, solution: None
+Solving puzzle with solution ["R'", "F'", 'U', "L'", "B'", "L'", "U'", 'F', "D'", "D'", "R'", 'F'] for coeff 0.0
+Time taken: 10, solution: None
+Solving puzzle with solution ['D', "B'", "B'", "D'", 'L', "F'", "R'", "F'", 'L', "U'", "U'", "R'"] for coeff 0.0
+Time taken: 10, solution: None
+Solving puzzle with solution ["D'", "R'", "B'", 'L', 'U', "L'", "D'", "D'", "R'", 'F', "U'", "L'"] for coeff 0.0
+Time taken: 6.837337017059326, solution: ["D'", "L'", 'B', "D'", "F'", "F'", "D'", 'L', 'U', "F'", "F'", "D'", "L'", 'D', 'L', "D'", "L'", 'D', 'L', "F'", "D'", "L'", "R'", "U'", "B'", "D'", "D'", 'B', 'B', 'U', "B'", "U'", 'L', 'B', "L'", "L'", "F'", 'D', 'F', "D'", 'L', 'B', 'L', "B'", "U'", 'L', 'U', 'L', 'B', "L'", "L'", "B'", "B'", "L'", 'B', "D'", "B'", 'D', "B'", 'L', 'B', "L'", "L'", "B'", 'U', "B'", "U'", "B'", 'U', 'B', "U'", "L'", 'B', 'L', 'B', 'L', "B'", "L'", "D'", "B'", "B'", 'D', "L'", "L'", "U'", 'L', 'U', 'L', "U'", 'L', 'L', 'U', "L'", "U'", 'L', 'U', 'B', "L'", "B'", 'L', 'B', "L'", "B'", "L'", "U'", "L'", "L'", 'U', 'L', 'L', "D'", "B'", 'L', 'B', 'D', "L'", "F'", 'D', 'F', "D'", 'L', 'B', "L'", "B'", "L'", "U'", 'L', 'L', 'U', 'L', "U'", "L'", 'U', 'B', "L'", "B'"]
+Solving puzzle with solution ["R'", "R'", "B'", "F'", "L'", "D'", "L'", "B'", 'R', 'D', "F'", "U'"] for coeff 0.0
+Time taken: 10, solution: None
+Solving puzzle with solution ["R'", "R'", "B'", "D'", 'F', "L'", 'D', 'L', "U'", "U'", "R'", "F'"] for coeff 0.1
+Time taken: 10, solution: None
+Solving puzzle with solution ["F'", "L'", 'B', 'B', 'R', "D'", "D'", "F'", 'R', "U'", "L'", "L'"] for coeff 0.1
+Time taken: 10, solution: None
+Solving puzzle with solution ["U'", "B'", 'L', "B'", 'D', "R'", "F'", "F'", "R'", "D'", 'F', "L'"] for coeff 0.1
+Time taken: 10, solution: None
+Solving puzzle with solution ["R'", "F'", 'U', "L'", "B'", "L'", "U'", 'F', "D'", "D'", "R'", 'F'] for coeff 0.1
+Time taken: 10, solution: None
+Solving puzzle with solution ['D', "B'", "B'", "D'", 'L', "F'", "R'", "F'", 'L', "U'", "U'", "R'"] for coeff 0.1
+Time taken: 10, solution: None
+Solving puzzle with solution ["D'", "R'", "B'", 'L', 'U', "L'", "D'", "D'", "R'", 'F', "U'", "L'"] for coeff 0.1
+Time taken: 10, solution: None
+Solving puzzle with solution ["R'", "R'", "B'", "F'", "L'", "D'", "L'", "B'", 'R', 'D', "F'", "U'"] for coeff 0.1
+Time taken: 10, solution: None
+Solving puzzle with solution ["R'", "R'", "B'", "D'", 'F', "L'", 'D', 'L', "U'", "U'", "R'", "F'"] for coeff 0.2
+Time taken: 10, solution: None
+Solving puzzle with solution ["F'", "L'", 'B', 'B', 'R', "D'", "D'", "F'", 'R', "U'", "L'", "L'"] for coeff 0.2
+Time taken: 5.0248212814331055, solution: ["F'", "L'", 'B', 'B', 'R', "D'", "D'", "F'", 'R', "U'", "L'", "L'"]
+Solving puzzle with solution ["U'", "B'", 'L', "B'", 'D', "R'", "F'", "F'", "R'", "D'", 'F', "L'"] for coeff 0.2
+Time taken: 4.520123720169067, solution: ["U'", "B'", 'L', "B'", 'D', "R'", "F'", "F'", "R'", "D'", 'F', "L'"]
+Solving puzzle with solution ["R'", "F'", 'U', "L'", "B'", "L'", "U'", 'F', "D'", "D'", "R'", 'F'] for coeff 0.2
+Time taken: 10, solution: None
+Solving puzzle with solution ['D', "B'", "B'", "D'", 'L', "F'", "R'", "F'", 'L', "U'", "U'", "R'"] for coeff 0.2
+Time taken: 10, solution: None
+Solving puzzle with solution ["D'", "R'", "B'", 'L', 'U', "L'", "D'", "D'", "R'", 'F', "U'", "L'"] for coeff 0.2
+Time taken: 10, solution: None
+Solving puzzle with solution ["R'", "R'", "B'", "F'", "L'", "D'", "L'", "B'", 'R', 'D', "F'", "U'"] for coeff 0.2
+Time taken: 10, solution: None
+Solving puzzle with solution ["R'", "R'", "B'", "D'", 'F', "L'", 'D', 'L', "U'", "U'", "R'", "F'"] for coeff 0.30000000000000004
+Time taken: 10, solution: None
+Solving puzzle with solution ["F'", "L'", 'B', 'B', 'R', "D'", "D'", "F'", 'R', "U'", "L'", "L'"] for coeff 0.30000000000000004
+Time taken: 6.1928551197052, solution: ["F'", "L'", 'B', 'B', 'R', "D'", "D'", "F'", 'R', "U'", "L'", "L'"]
+Solving puzzle with solution ["U'", "B'", 'L', "B'", 'D', "R'", "F'", "F'", "R'", "D'", 'F', "L'"] for coeff 0.30000000000000004
+Time taken: 0.5463042259216309, solution: ["U'", "B'", 'L', "B'", 'D', "R'", "F'", "F'", "R'", "D'", 'F', "L'"]
+Solving puzzle with solution ["R'", "F'", 'U', "L'", "B'", "L'", "U'", 'F', "D'", "D'", "R'", 'F'] for coeff 0.30000000000000004
+Time taken: 9.955133438110352, solution: ["R'", "F'", 'U', "L'", "B'", "L'", "U'", 'F', "D'", "D'", "R'", 'F']
+Solving puzzle with solution ['D', "B'", "B'", "D'", 'L', "F'", "R'", "F'", 'L', "U'", "U'", "R'"] for coeff 0.30000000000000004
+Time taken: 10, solution: None
+Solving puzzle with solution ["D'", "R'", "B'", 'L', 'U', "L'", "D'", "D'", "R'", 'F', "U'", "L'"] for coeff 0.30000000000000004
+Time taken: 10, solution: None
+Solving puzzle with solution ["R'", "R'", "B'", "F'", "L'", "D'", "L'", "B'", 'R', 'D', "F'", "U'"] for coeff 0.30000000000000004
+Time taken: 10, solution: None
+Solving puzzle with solution ["R'", "R'", "B'", "D'", 'F', "L'", 'D', 'L', "U'", "U'", "R'", "F'"] for coeff 0.4
+Time taken: 10, solution: None
+Solving puzzle with solution ["F'", "L'", 'B', 'B', 'R', "D'", "D'", "F'", 'R', "U'", "L'", "L'"] for coeff 0.4
+Time taken: 10, solution: None
+Solving puzzle with solution ["U'", "B'", 'L', "B'", 'D', "R'", "F'", "F'", "R'", "D'", 'F', "L'"] for coeff 0.4
+Time taken: 10, solution: None
+Solving puzzle with solution ["R'", "F'", 'U', "L'", "B'", "L'", "U'", 'F', "D'", "D'", "R'", 'F'] for coeff 0.4
+Time taken: 10, solution: None
+Solving puzzle with solution ['D', "B'", "B'", "D'", 'L', "F'", "R'", "F'", 'L', "U'", "U'", "R'"] for coeff 0.4
+Time taken: 10, solution: None
+Solving puzzle with solution ["D'", "R'", "B'", 'L', 'U', "L'", "D'", "D'", "R'", 'F', "U'", "L'"] for coeff 0.4
+Time taken: 10, solution: None
+Solving puzzle with solution ["R'", "R'", "B'", "F'", "L'", "D'", "L'", "B'", 'R', 'D', "F'", "U'"] for coeff 0.4
+Time taken: 10, solution: None
+Solving puzzle with solution ["R'", "R'", "B'", "D'", 'F', "L'", 'D', 'L', "U'", "U'", "R'", "F'"] for coeff 0.5
+Time taken: 10, solution: None
+Solving puzzle with solution ["F'", "L'", 'B', 'B', 'R', "D'", "D'", "F'", 'R', "U'", "L'", "L'"] for coeff 0.5
+Time taken: 10, solution: None
+Solving puzzle with solution ["U'", "B'", 'L', "B'", 'D', "R'", "F'", "F'", "R'", "D'", 'F', "L'"] for coeff 0.5
+Time taken: 10, solution: None
+Solving puzzle with solution ["R'", "F'", 'U', "L'", "B'", "L'", "U'", 'F', "D'", "D'", "R'", 'F'] for coeff 0.5
+Time taken: 10, solution: None
+Solving puzzle with solution ['D', "B'", "B'", "D'", 'L', "F'", "R'", "F'", 'L', "U'", "U'", "R'"] for coeff 0.5
+Time taken: 10, solution: None
+Solving puzzle with solution ["D'", "R'", "B'", 'L', 'U', "L'", "D'", "D'", "R'", 'F', "U'", "L'"] for coeff 0.5
+Time taken: 10, solution: None
+Solving puzzle with solution ["R'", "R'", "B'", "F'", "L'", "D'", "L'", "B'", 'R', 'D', "F'", "U'"] for coeff 0.5
+Time taken: 10, solution: None
+Solving puzzle with solution ["R'", "R'", "B'", "D'", 'F', "L'", 'D', 'L', "U'", "U'", "R'", "F'"] for coeff 0.6000000000000001
+Time taken: 10, solution: None
+Solving puzzle with solution ["F'", "L'", 'B', 'B', 'R', "D'", "D'", "F'", 'R', "U'", "L'", "L'"] for coeff 0.6000000000000001
+Time taken: 10, solution: None
+Solving puzzle with solution ["U'", "B'", 'L', "B'", 'D', "R'", "F'", "F'", "R'", "D'", 'F', "L'"] for coeff 0.6000000000000001
+Time taken: 10, solution: None
+Solving puzzle with solution ["R'", "F'", 'U', "L'", "B'", "L'", "U'", 'F', "D'", "D'", "R'", 'F'] for coeff 0.6000000000000001
+Time taken: 10, solution: None
+Solving puzzle with solution ['D', "B'", "B'", "D'", 'L', "F'", "R'", "F'", 'L', "U'", "U'", "R'"] for coeff 0.6000000000000001
+Time taken: 10, solution: None
+Solving puzzle with solution ["D'", "R'", "B'", 'L', 'U', "L'", "D'", "D'", "R'", 'F', "U'", "L'"] for coeff 0.6000000000000001
+Time taken: 10, solution: None
+Solving puzzle with solution ["R'", "R'", "B'", "F'", "L'", "D'", "L'", "B'", 'R', 'D', "F'", "U'"] for coeff 0.6000000000000001
+Time taken: 10, solution: None
+Solving puzzle with solution ["R'", "R'", "B'", "D'", 'F', "L'", 'D', 'L', "U'", "U'", "R'", "F'"] for coeff 0.7000000000000001
+Time taken: 10, solution: None
+Solving puzzle with solution ["F'", "L'", 'B', 'B', 'R', "D'", "D'", "F'", 'R', "U'", "L'", "L'"] for coeff 0.7000000000000001
+Time taken: 10, solution: None
+Solving puzzle with solution ["U'", "B'", 'L', "B'", 'D', "R'", "F'", "F'", "R'", "D'", 'F', "L'"] for coeff 0.7000000000000001
+Time taken: 10, solution: None
+Solving puzzle with solution ["R'", "F'", 'U', "L'", "B'", "L'", "U'", 'F', "D'", "D'", "R'", 'F'] for coeff 0.7000000000000001
+Time taken: 10, solution: None
+Solving puzzle with solution ['D', "B'", "B'", "D'", 'L', "F'", "R'", "F'", 'L', "U'", "U'", "R'"] for coeff 0.7000000000000001
+Time taken: 10, solution: None
+Solving puzzle with solution ["D'", "R'", "B'", 'L', 'U', "L'", "D'", "D'", "R'", 'F', "U'", "L'"] for coeff 0.7000000000000001
+Time taken: 10, solution: None
+Solving puzzle with solution ["R'", "R'", "B'", "F'", "L'", "D'", "L'", "B'", 'R', 'D', "F'", "U'"] for coeff 0.7000000000000001
+Time taken: 10, solution: None
+Solving puzzle with solution ["R'", "R'", "B'", "D'", 'F', "L'", 'D', 'L', "U'", "U'", "R'", "F'"] for coeff 0.8
+Time taken: 10, solution: None
+Solving puzzle with solution ["F'", "L'", 'B', 'B', 'R', "D'", "D'", "F'", 'R', "U'", "L'", "L'"] for coeff 0.8
+Time taken: 10, solution: None
+Solving puzzle with solution ["U'", "B'", 'L', "B'", 'D', "R'", "F'", "F'", "R'", "D'", 'F', "L'"] for coeff 0.8
+Time taken: 10, solution: None
+Solving puzzle with solution ["R'", "F'", 'U', "L'", "B'", "L'", "U'", 'F', "D'", "D'", "R'", 'F'] for coeff 0.8
+Time taken: 10, solution: None
+Solving puzzle with solution ['D', "B'", "B'", "D'", 'L', "F'", "R'", "F'", 'L', "U'", "U'", "R'"] for coeff 0.8
+Time taken: 10, solution: None
+Solving puzzle with solution ["D'", "R'", "B'", 'L', 'U', "L'", "D'", "D'", "R'", 'F', "U'", "L'"] for coeff 0.8
+Time taken: 10, solution: None
+Solving puzzle with solution ["R'", "R'", "B'", "F'", "L'", "D'", "L'", "B'", 'R', 'D', "F'", "U'"] for coeff 0.8
+Time taken: 10, solution: None
+Solving puzzle with solution ["R'", "R'", "B'", "D'", 'F', "L'", 'D', 'L', "U'", "U'", "R'", "F'"] for coeff 0.9
+Time taken: 10, solution: None
+Solving puzzle with solution ["F'", "L'", 'B', 'B', 'R', "D'", "D'", "F'", 'R', "U'", "L'", "L'"] for coeff 0.9
+Time taken: 10, solution: None
+Solving puzzle with solution ["U'", "B'", 'L', "B'", 'D', "R'", "F'", "F'", "R'", "D'", 'F', "L'"] for coeff 0.9
+Time taken: 10, solution: None
+Solving puzzle with solution ["R'", "F'", 'U', "L'", "B'", "L'", "U'", 'F', "D'", "D'", "R'", 'F'] for coeff 0.9
+Time taken: 10, solution: None
+Solving puzzle with solution ['D', "B'", "B'", "D'", 'L', "F'", "R'", "F'", 'L', "U'", "U'", "R'"] for coeff 0.9
+Time taken: 10, solution: None
+Solving puzzle with solution ["D'", "R'", "B'", 'L', 'U', "L'", "D'", "D'", "R'", 'F', "U'", "L'"] for coeff 0.9
+Time taken: 10, solution: None
+Solving puzzle with solution ["R'", "R'", "B'", "F'", "L'", "D'", "L'", "B'", 'R', 'D', "F'", "U'"] for coeff 0.9
+Time taken: 10, solution: None
+Solving puzzle with solution ["R'", "R'", "B'", "D'", 'F', "L'", 'D', 'L', "U'", "U'", "R'", "F'"] for coeff 1.0
+Time taken: 10, solution: None
+Solving puzzle with solution ["F'", "L'", 'B', 'B', 'R', "D'", "D'", "F'", 'R', "U'", "L'", "L'"] for coeff 1.0
+Time taken: 10, solution: None
+Solving puzzle with solution ["U'", "B'", 'L', "B'", 'D', "R'", "F'", "F'", "R'", "D'", 'F', "L'"] for coeff 1.0
+Time taken: 10, solution: None
+Solving puzzle with solution ["R'", "F'", 'U', "L'", "B'", "L'", "U'", 'F', "D'", "D'", "R'", 'F'] for coeff 1.0
+Time taken: 10, solution: None
+Solving puzzle with solution ['D', "B'", "B'", "D'", 'L', "F'", "R'", "F'", 'L', "U'", "U'", "R'"] for coeff 1.0
+Time taken: 10, solution: None
+Solving puzzle with solution ["D'", "R'", "B'", 'L', 'U', "L'", "D'", "D'", "R'", 'F', "U'", "L'"] for coeff 1.0
+Time taken: 10, solution: None
+Solving puzzle with solution ["R'", "R'", "B'", "F'", "L'", "D'", "L'", "B'", 'R', 'D', "F'", "U'"] for coeff 1.0
+Time taken: 10, solution: None
+Solving puzzle with solution ["R'", "R'", "B'", "D'", 'F', "L'", 'D', 'L', "U'", "U'", "R'", "F'"] for coeff 1.1
+Time taken: 10, solution: None
+Solving puzzle with solution ["F'", "L'", 'B', 'B', 'R', "D'", "D'", "F'", 'R', "U'", "L'", "L'"] for coeff 1.1
+Time taken: 10, solution: None
+Solving puzzle with solution ["U'", "B'", 'L', "B'", 'D', "R'", "F'", "F'", "R'", "D'", 'F', "L'"] for coeff 1.1
+Time taken: 10, solution: None
+Solving puzzle with solution ["R'", "F'", 'U', "L'", "B'", "L'", "U'", 'F', "D'", "D'", "R'", 'F'] for coeff 1.1
+Time taken: 10, solution: None
+Solving puzzle with solution ['D', "B'", "B'", "D'", 'L', "F'", "R'", "F'", 'L', "U'", "U'", "R'"] for coeff 1.1
+Time taken: 10, solution: None
+Solving puzzle with solution ["D'", "R'", "B'", 'L', 'U', "L'", "D'", "D'", "R'", 'F', "U'", "L'"] for coeff 1.1
+Time taken: 10, solution: None
+Solving puzzle with solution ["R'", "R'", "B'", "F'", "L'", "D'", "L'", "B'", 'R', 'D', "F'", "U'"] for coeff 1.1
+Time taken: 10, solution: None
+Solving puzzle with solution ["R'", "R'", "B'", "D'", 'F', "L'", 'D', 'L', "U'", "U'", "R'", "F'"] for coeff 1.2000000000000002
+Time taken: 10, solution: None
+Solving puzzle with solution ["F'", "L'", 'B', 'B', 'R', "D'", "D'", "F'", 'R', "U'", "L'", "L'"] for coeff 1.2000000000000002
+Time taken: 10, solution: None
+Solving puzzle with solution ["U'", "B'", 'L', "B'", 'D', "R'", "F'", "F'", "R'", "D'", 'F', "L'"] for coeff 1.2000000000000002
+Time taken: 10, solution: None
+Solving puzzle with solution ["R'", "F'", 'U', "L'", "B'", "L'", "U'", 'F', "D'", "D'", "R'", 'F'] for coeff 1.2000000000000002
+Time taken: 10, solution: None
+Solving puzzle with solution ['D', "B'", "B'", "D'", 'L', "F'", "R'", "F'", 'L', "U'", "U'", "R'"] for coeff 1.2000000000000002
+Time taken: 10, solution: None
+Solving puzzle with solution ["D'", "R'", "B'", 'L', 'U', "L'", "D'", "D'", "R'", 'F', "U'", "L'"] for coeff 1.2000000000000002
+Time taken: 10, solution: None
+Solving puzzle with solution ["R'", "R'", "B'", "F'", "L'", "D'", "L'", "B'", 'R', 'D', "F'", "U'"] for coeff 1.2000000000000002
+Time taken: 10, solution: None
+Solving puzzle with solution ["R'", "R'", "B'", "D'", 'F', "L'", 'D', 'L', "U'", "U'", "R'", "F'"] for coeff 1.3
+Time taken: 10, solution: None
+Solving puzzle with solution ["F'", "L'", 'B', 'B', 'R', "D'", "D'", "F'", 'R', "U'", "L'", "L'"] for coeff 1.3
+Time taken: 10, solution: None
+Solving puzzle with solution ["U'", "B'", 'L', "B'", 'D', "R'", "F'", "F'", "R'", "D'", 'F', "L'"] for coeff 1.3
+Time taken: 10, solution: None
+Solving puzzle with solution ["R'", "F'", 'U', "L'", "B'", "L'", "U'", 'F', "D'", "D'", "R'", 'F'] for coeff 1.3
+Time taken: 10, solution: None
+Solving puzzle with solution ['D', "B'", "B'", "D'", 'L', "F'", "R'", "F'", 'L', "U'", "U'", "R'"] for coeff 1.3
+Time taken: 10, solution: None
+Solving puzzle with solution ["D'", "R'", "B'", 'L', 'U', "L'", "D'", "D'", "R'", 'F', "U'", "L'"] for coeff 1.3
+Time taken: 10, solution: None
+Solving puzzle with solution ["R'", "R'", "B'", "F'", "L'", "D'", "L'", "B'", 'R', 'D', "F'", "U'"] for coeff 1.3
+Time taken: 10, solution: None
+Solving puzzle with solution ["R'", "R'", "B'", "D'", 'F', "L'", 'D', 'L', "U'", "U'", "R'", "F'"] for coeff 1.4000000000000001
+Time taken: 10, solution: None
+Solving puzzle with solution ["F'", "L'", 'B', 'B', 'R', "D'", "D'", "F'", 'R', "U'", "L'", "L'"] for coeff 1.4000000000000001
+Time taken: 10, solution: None
+Solving puzzle with solution ["U'", "B'", 'L', "B'", 'D', "R'", "F'", "F'", "R'", "D'", 'F', "L'"] for coeff 1.4000000000000001
+Time taken: 10, solution: None
+Solving puzzle with solution ["R'", "F'", 'U', "L'", "B'", "L'", "U'", 'F', "D'", "D'", "R'", 'F'] for coeff 1.4000000000000001
+Time taken: 10, solution: None
+Solving puzzle with solution ['D', "B'", "B'", "D'", 'L', "F'", "R'", "F'", 'L', "U'", "U'", "R'"] for coeff 1.4000000000000001
+Time taken: 10, solution: None
+Solving puzzle with solution ["D'", "R'", "B'", 'L', 'U', "L'", "D'", "D'", "R'", 'F', "U'", "L'"] for coeff 1.4000000000000001
+Time taken: 10, solution: None
+Solving puzzle with solution ["R'", "R'", "B'", "F'", "L'", "D'", "L'", "B'", 'R', 'D', "F'", "U'"] for coeff 1.4000000000000001
+Time taken: 10, solution: None
+Solving puzzle with solution ["R'", "R'", "B'", "D'", 'F', "L'", 'D', 'L', "U'", "U'", "R'", "F'"] for coeff 1.5
+Time taken: 10, solution: None
+Solving puzzle with solution ["F'", "L'", 'B', 'B', 'R', "D'", "D'", "F'", 'R', "U'", "L'", "L'"] for coeff 1.5
+Time taken: 10, solution: None
+Solving puzzle with solution ["U'", "B'", 'L', "B'", 'D', "R'", "F'", "F'", "R'", "D'", 'F', "L'"] for coeff 1.5
+Time taken: 10, solution: None
+Solving puzzle with solution ["R'", "F'", 'U', "L'", "B'", "L'", "U'", 'F', "D'", "D'", "R'", 'F'] for coeff 1.5
+Time taken: 10, solution: None
+Solving puzzle with solution ['D', "B'", "B'", "D'", 'L', "F'", "R'", "F'", 'L', "U'", "U'", "R'"] for coeff 1.5
+Time taken: 10, solution: None
+Solving puzzle with solution ["D'", "R'", "B'", 'L', 'U', "L'", "D'", "D'", "R'", 'F', "U'", "L'"] for coeff 1.5
+Time taken: 10, solution: None
+Solving puzzle with solution ["R'", "R'", "B'", "F'", "L'", "D'", "L'", "B'", 'R', 'D', "F'", "U'"] for coeff 1.5
+Time taken: 10, solution: None
+Solving puzzle with solution ["R'", "R'", "B'", "D'", 'F', "L'", 'D', 'L', "U'", "U'", "R'", "F'"] for coeff 1.6
+Time taken: 10, solution: None
+Solving puzzle with solution ["F'", "L'", 'B', 'B', 'R', "D'", "D'", "F'", 'R', "U'", "L'", "L'"] for coeff 1.6
+Time taken: 10, solution: None
+Solving puzzle with solution ["U'", "B'", 'L', "B'", 'D', "R'", "F'", "F'", "R'", "D'", 'F', "L'"] for coeff 1.6
+Time taken: 10, solution: None
+Solving puzzle with solution ["R'", "F'", 'U', "L'", "B'", "L'", "U'", 'F', "D'", "D'", "R'", 'F'] for coeff 1.6
+Time taken: 10, solution: None
+Solving puzzle with solution ['D', "B'", "B'", "D'", 'L', "F'", "R'", "F'", 'L', "U'", "U'", "R'"] for coeff 1.6
+Time taken: 10, solution: None
+Solving puzzle with solution ["D'", "R'", "B'", 'L', 'U', "L'", "D'", "D'", "R'", 'F', "U'", "L'"] for coeff 1.6
+Time taken: 10, solution: None
+Solving puzzle with solution ["R'", "R'", "B'", "F'", "L'", "D'", "L'", "B'", 'R', 'D', "F'", "U'"] for coeff 1.6
+Time taken: 10, solution: None
+Solving puzzle with solution ["R'", "R'", "B'", "D'", 'F', "L'", 'D', 'L', "U'", "U'", "R'", "F'"] for coeff 1.7000000000000002
+Time taken: 10, solution: None
+Solving puzzle with solution ["F'", "L'", 'B', 'B', 'R', "D'", "D'", "F'", 'R', "U'", "L'", "L'"] for coeff 1.7000000000000002
+Time taken: 10, solution: None
+Solving puzzle with solution ["U'", "B'", 'L', "B'", 'D', "R'", "F'", "F'", "R'", "D'", 'F', "L'"] for coeff 1.7000000000000002
+Time taken: 10, solution: None
+Solving puzzle with solution ["R'", "F'", 'U', "L'", "B'", "L'", "U'", 'F', "D'", "D'", "R'", 'F'] for coeff 1.7000000000000002
+Time taken: 10, solution: None
+Solving puzzle with solution ['D', "B'", "B'", "D'", 'L', "F'", "R'", "F'", 'L', "U'", "U'", "R'"] for coeff 1.7000000000000002
+Time taken: 10, solution: None
+Solving puzzle with solution ["D'", "R'", "B'", 'L', 'U', "L'", "D'", "D'", "R'", 'F', "U'", "L'"] for coeff 1.7000000000000002
+Time taken: 10, solution: None
+Solving puzzle with solution ["R'", "R'", "B'", "F'", "L'", "D'", "L'", "B'", 'R', 'D', "F'", "U'"] for coeff 1.7000000000000002
+Time taken: 10, solution: None
+Solving puzzle with solution ["R'", "R'", "B'", "D'", 'F', "L'", 'D', 'L', "U'", "U'", "R'", "F'"] for coeff 1.8
+Time taken: 10, solution: None
+Solving puzzle with solution ["F'", "L'", 'B', 'B', 'R', "D'", "D'", "F'", 'R', "U'", "L'", "L'"] for coeff 1.8
+Time taken: 10, solution: None
+Solving puzzle with solution ["U'", "B'", 'L', "B'", 'D', "R'", "F'", "F'", "R'", "D'", 'F', "L'"] for coeff 1.8
+Time taken: 10, solution: None
+Solving puzzle with solution ["R'", "F'", 'U', "L'", "B'", "L'", "U'", 'F', "D'", "D'", "R'", 'F'] for coeff 1.8
+Time taken: 10, solution: None
+Solving puzzle with solution ['D', "B'", "B'", "D'", 'L', "F'", "R'", "F'", 'L', "U'", "U'", "R'"] for coeff 1.8
+Time taken: 10, solution: None
+Solving puzzle with solution ["D'", "R'", "B'", 'L', 'U', "L'", "D'", "D'", "R'", 'F', "U'", "L'"] for coeff 1.8
+Time taken: 10, solution: None
+Solving puzzle with solution ["R'", "R'", "B'", "F'", "L'", "D'", "L'", "B'", 'R', 'D', "F'", "U'"] for coeff 1.8
+Time taken: 10, solution: None
+Solving puzzle with solution ["R'", "R'", "B'", "D'", 'F', "L'", 'D', 'L', "U'", "U'", "R'", "F'"] for coeff 1.9000000000000001
+Time taken: 10, solution: None
+Solving puzzle with solution ["F'", "L'", 'B', 'B', 'R', "D'", "D'", "F'", 'R', "U'", "L'", "L'"] for coeff 1.9000000000000001
+Time taken: 10, solution: None
+Solving puzzle with solution ["U'", "B'", 'L', "B'", 'D', "R'", "F'", "F'", "R'", "D'", 'F', "L'"] for coeff 1.9000000000000001
+Time taken: 10, solution: None
+Solving puzzle with solution ["R'", "F'", 'U', "L'", "B'", "L'", "U'", 'F', "D'", "D'", "R'", 'F'] for coeff 1.9000000000000001
+Time taken: 10, solution: None
+Solving puzzle with solution ['D', "B'", "B'", "D'", 'L', "F'", "R'", "F'", 'L', "U'", "U'", "R'"] for coeff 1.9000000000000001
+Time taken: 10, solution: None
+Solving puzzle with solution ["D'", "R'", "B'", 'L', 'U', "L'", "D'", "D'", "R'", 'F', "U'", "L'"] for coeff 1.9000000000000001
+Time taken: 10, solution: None
+Solving puzzle with solution ["R'", "R'", "B'", "F'", "L'", "D'", "L'", "B'", 'R', 'D', "F'", "U'"] for coeff 1.9000000000000001
+Time taken: 10, solution: None
+Solving puzzle with solution ["R'", "R'", "B'", "D'", 'F', "L'", 'D', 'L', "U'", "U'", "R'", "F'"] for coeff 2.0
+Time taken: 10, solution: None
+Solving puzzle with solution ["F'", "L'", 'B', 'B', 'R', "D'", "D'", "F'", 'R', "U'", "L'", "L'"] for coeff 2.0
+Time taken: 10, solution: None
+Solving puzzle with solution ["U'", "B'", 'L', "B'", 'D', "R'", "F'", "F'", "R'", "D'", 'F', "L'"] for coeff 2.0
+Time taken: 10, solution: None
+Solving puzzle with solution ["R'", "F'", 'U', "L'", "B'", "L'", "U'", 'F', "D'", "D'", "R'", 'F'] for coeff 2.0
+Time taken: 10, solution: None
+Solving puzzle with solution ['D', "B'", "B'", "D'", 'L', "F'", "R'", "F'", 'L', "U'", "U'", "R'"] for coeff 2.0
+Time taken: 10, solution: None
+Solving puzzle with solution ["D'", "R'", "B'", 'L', 'U', "L'", "D'", "D'", "R'", 'F', "U'", "L'"] for coeff 2.0
+Time taken: 10, solution: None
+Solving puzzle with solution ["R'", "R'", "B'", "F'", "L'", "D'", "L'", "B'", 'R', 'D', "F'", "U'"] for coeff 2.0
+Time taken: 10, solution: None
+Solving puzzle with solution ["R'", "R'", "B'", "D'", 'F', "L'", 'D', 'L', "U'", "U'", "R'", "F'"] for coeff 2.1
+Time taken: 10, solution: None
+Solving puzzle with solution ["F'", "L'", 'B', 'B', 'R', "D'", "D'", "F'", 'R', "U'", "L'", "L'"] for coeff 2.1
+Time taken: 10, solution: None
+Solving puzzle with solution ["U'", "B'", 'L', "B'", 'D', "R'", "F'", "F'", "R'", "D'", 'F', "L'"] for coeff 2.1
+Time taken: 10, solution: None
+Solving puzzle with solution ["R'", "F'", 'U', "L'", "B'", "L'", "U'", 'F', "D'", "D'", "R'", 'F'] for coeff 2.1
+Time taken: 10, solution: None
+Solving puzzle with solution ['D', "B'", "B'", "D'", 'L', "F'", "R'", "F'", 'L', "U'", "U'", "R'"] for coeff 2.1
+Time taken: 10, solution: None
+Solving puzzle with solution ["D'", "R'", "B'", 'L', 'U', "L'", "D'", "D'", "R'", 'F', "U'", "L'"] for coeff 2.1
+Time taken: 10, solution: None
+Solving puzzle with solution ["R'", "R'", "B'", "F'", "L'", "D'", "L'", "B'", 'R', 'D', "F'", "U'"] for coeff 2.1
+Time taken: 10, solution: None
+Solving puzzle with solution ["R'", "R'", "B'", "D'", 'F', "L'", 'D', 'L', "U'", "U'", "R'", "F'"] for coeff 2.2
+Time taken: 10, solution: None
+Solving puzzle with solution ["F'", "L'", 'B', 'B', 'R', "D'", "D'", "F'", 'R', "U'", "L'", "L'"] for coeff 2.2
+Time taken: 10, solution: None
+Solving puzzle with solution ["U'", "B'", 'L', "B'", 'D', "R'", "F'", "F'", "R'", "D'", 'F', "L'"] for coeff 2.2
+Time taken: 10, solution: None
+Solving puzzle with solution ["R'", "F'", 'U', "L'", "B'", "L'", "U'", 'F', "D'", "D'", "R'", 'F'] for coeff 2.2
+Time taken: 10, solution: None
+Solving puzzle with solution ['D', "B'", "B'", "D'", 'L', "F'", "R'", "F'", 'L', "U'", "U'", "R'"] for coeff 2.2
+Time taken: 10, solution: None
+Solving puzzle with solution ["D'", "R'", "B'", 'L', 'U', "L'", "D'", "D'", "R'", 'F', "U'", "L'"] for coeff 2.2
+Time taken: 10, solution: None
+Solving puzzle with solution ["R'", "R'", "B'", "F'", "L'", "D'", "L'", "B'", 'R', 'D', "F'", "U'"] for coeff 2.2
+Time taken: 10, solution: None
+Solving puzzle with solution ["R'", "R'", "B'", "D'", 'F', "L'", 'D', 'L', "U'", "U'", "R'", "F'"] for coeff 2.3000000000000003
+Time taken: 10, solution: None
+Solving puzzle with solution ["F'", "L'", 'B', 'B', 'R', "D'", "D'", "F'", 'R', "U'", "L'", "L'"] for coeff 2.3000000000000003
+Time taken: 10, solution: None
+Solving puzzle with solution ["U'", "B'", 'L', "B'", 'D', "R'", "F'", "F'", "R'", "D'", 'F', "L'"] for coeff 2.3000000000000003
+Time taken: 10, solution: None
+Solving puzzle with solution ["R'", "F'", 'U', "L'", "B'", "L'", "U'", 'F', "D'", "D'", "R'", 'F'] for coeff 2.3000000000000003
+Time taken: 10, solution: None
+Solving puzzle with solution ['D', "B'", "B'", "D'", 'L', "F'", "R'", "F'", 'L', "U'", "U'", "R'"] for coeff 2.3000000000000003
+Time taken: 10, solution: None
+Solving puzzle with solution ["D'", "R'", "B'", 'L', 'U', "L'", "D'", "D'", "R'", 'F', "U'", "L'"] for coeff 2.3000000000000003
+Time taken: 10, solution: None
+Solving puzzle with solution ["R'", "R'", "B'", "F'", "L'", "D'", "L'", "B'", 'R', 'D', "F'", "U'"] for coeff 2.3000000000000003
+Time taken: 10, solution: None
+Solving puzzle with solution ["R'", "R'", "B'", "D'", 'F', "L'", 'D', 'L', "U'", "U'", "R'", "F'"] for coeff 2.4000000000000004
+Time taken: 10, solution: None
+Solving puzzle with solution ["F'", "L'", 'B', 'B', 'R', "D'", "D'", "F'", 'R', "U'", "L'", "L'"] for coeff 2.4000000000000004
+Time taken: 10, solution: None
+Solving puzzle with solution ["U'", "B'", 'L', "B'", 'D', "R'", "F'", "F'", "R'", "D'", 'F', "L'"] for coeff 2.4000000000000004
+Time taken: 10, solution: None
+Solving puzzle with solution ["R'", "F'", 'U', "L'", "B'", "L'", "U'", 'F', "D'", "D'", "R'", 'F'] for coeff 2.4000000000000004
+Time taken: 10, solution: None
+Solving puzzle with solution ['D', "B'", "B'", "D'", 'L', "F'", "R'", "F'", 'L', "U'", "U'", "R'"] for coeff 2.4000000000000004
+Time taken: 10, solution: None
+Solving puzzle with solution ["D'", "R'", "B'", 'L', 'U', "L'", "D'", "D'", "R'", 'F', "U'", "L'"] for coeff 2.4000000000000004
+Time taken: 10, solution: None
+Solving puzzle with solution ["R'", "R'", "B'", "F'", "L'", "D'", "L'", "B'", 'R', 'D', "F'", "U'"] for coeff 2.4000000000000004
+Time taken: 10, solution: None
+Solving puzzle with solution ["R'", "R'", "B'", "D'", 'F', "L'", 'D', 'L', "U'", "U'", "R'", "F'"] for coeff 2.5
+Time taken: 10, solution: None
+Solving puzzle with solution ["F'", "L'", 'B', 'B', 'R', "D'", "D'", "F'", 'R', "U'", "L'", "L'"] for coeff 2.5
+Time taken: 10, solution: None
+Solving puzzle with solution ["U'", "B'", 'L', "B'", 'D', "R'", "F'", "F'", "R'", "D'", 'F', "L'"] for coeff 2.5
+Time taken: 10, solution: None
+Solving puzzle with solution ["R'", "F'", 'U', "L'", "B'", "L'", "U'", 'F', "D'", "D'", "R'", 'F'] for coeff 2.5
+Time taken: 10, solution: None
+Solving puzzle with solution ['D', "B'", "B'", "D'", 'L', "F'", "R'", "F'", 'L', "U'", "U'", "R'"] for coeff 2.5
+Time taken: 10, solution: None
+Solving puzzle with solution ["D'", "R'", "B'", 'L', 'U', "L'", "D'", "D'", "R'", 'F', "U'", "L'"] for coeff 2.5
+Time taken: 10, solution: None
+Solving puzzle with solution ["R'", "R'", "B'", "F'", "L'", "D'", "L'", "B'", 'R', 'D', "F'", "U'"] for coeff 2.5
+Time taken: 10, solution: None
+Solving puzzle with solution ["R'", "R'", "B'", "D'", 'F', "L'", 'D', 'L', "U'", "U'", "R'", "F'"] for coeff 2.6
+Time taken: 10, solution: None
+Solving puzzle with solution ["F'", "L'", 'B', 'B', 'R', "D'", "D'", "F'", 'R', "U'", "L'", "L'"] for coeff 2.6
+Time taken: 10, solution: None
+Solving puzzle with solution ["U'", "B'", 'L', "B'", 'D', "R'", "F'", "F'", "R'", "D'", 'F', "L'"] for coeff 2.6
+Time taken: 10, solution: None
+Solving puzzle with solution ["R'", "F'", 'U', "L'", "B'", "L'", "U'", 'F', "D'", "D'", "R'", 'F'] for coeff 2.6
+Time taken: 10, solution: None
+Solving puzzle with solution ['D', "B'", "B'", "D'", 'L', "F'", "R'", "F'", 'L', "U'", "U'", "R'"] for coeff 2.6
+Time taken: 10, solution: None
+Solving puzzle with solution ["D'", "R'", "B'", 'L', 'U', "L'", "D'", "D'", "R'", 'F', "U'", "L'"] for coeff 2.6
+Time taken: 10, solution: None
+Solving puzzle with solution ["R'", "R'", "B'", "F'", "L'", "D'", "L'", "B'", 'R', 'D', "F'", "U'"] for coeff 2.6
+Time taken: 10, solution: None
+Solving puzzle with solution ["R'", "R'", "B'", "D'", 'F', "L'", 'D', 'L', "U'", "U'", "R'", "F'"] for coeff 2.7
+Time taken: 10, solution: None
+Solving puzzle with solution ["F'", "L'", 'B', 'B', 'R', "D'", "D'", "F'", 'R', "U'", "L'", "L'"] for coeff 2.7
+Time taken: 10, solution: None
+Solving puzzle with solution ["U'", "B'", 'L', "B'", 'D', "R'", "F'", "F'", "R'", "D'", 'F', "L'"] for coeff 2.7
+Time taken: 10, solution: None
+Solving puzzle with solution ["R'", "F'", 'U', "L'", "B'", "L'", "U'", 'F', "D'", "D'", "R'", 'F'] for coeff 2.7
+Time taken: 10, solution: None
+Solving puzzle with solution ['D', "B'", "B'", "D'", 'L', "F'", "R'", "F'", 'L', "U'", "U'", "R'"] for coeff 2.7
+Time taken: 10, solution: None
+Solving puzzle with solution ["D'", "R'", "B'", 'L', 'U', "L'", "D'", "D'", "R'", 'F', "U'", "L'"] for coeff 2.7
+Time taken: 10, solution: None
+Solving puzzle with solution ["R'", "R'", "B'", "F'", "L'", "D'", "L'", "B'", 'R', 'D', "F'", "U'"] for coeff 2.7
+Time taken: 10, solution: None
+Solving puzzle with solution ["R'", "R'", "B'", "D'", 'F', "L'", 'D', 'L', "U'", "U'", "R'", "F'"] for coeff 2.8000000000000003
+Time taken: 10, solution: None
+Solving puzzle with solution ["F'", "L'", 'B', 'B', 'R', "D'", "D'", "F'", 'R', "U'", "L'", "L'"] for coeff 2.8000000000000003
+Time taken: 10, solution: None
+Solving puzzle with solution ["U'", "B'", 'L', "B'", 'D', "R'", "F'", "F'", "R'", "D'", 'F', "L'"] for coeff 2.8000000000000003
+Time taken: 10, solution: None
+Solving puzzle with solution ["R'", "F'", 'U', "L'", "B'", "L'", "U'", 'F', "D'", "D'", "R'", 'F'] for coeff 2.8000000000000003
+Time taken: 10, solution: None
+Solving puzzle with solution ['D', "B'", "B'", "D'", 'L', "F'", "R'", "F'", 'L', "U'", "U'", "R'"] for coeff 2.8000000000000003
+Time taken: 10, solution: None
+Solving puzzle with solution ["D'", "R'", "B'", 'L', 'U', "L'", "D'", "D'", "R'", 'F', "U'", "L'"] for coeff 2.8000000000000003
+Time taken: 10, solution: None
+Solving puzzle with solution ["R'", "R'", "B'", "F'", "L'", "D'", "L'", "B'", 'R', 'D', "F'", "U'"] for coeff 2.8000000000000003
+Time taken: 10, solution: None
+Solving puzzle with solution ["R'", "R'", "B'", "D'", 'F', "L'", 'D', 'L', "U'", "U'", "R'", "F'"] for coeff 2.9000000000000004
+Time taken: 10, solution: None
+Solving puzzle with solution ["F'", "L'", 'B', 'B', 'R', "D'", "D'", "F'", 'R', "U'", "L'", "L'"] for coeff 2.9000000000000004
+Time taken: 10, solution: None
+Solving puzzle with solution ["U'", "B'", 'L', "B'", 'D', "R'", "F'", "F'", "R'", "D'", 'F', "L'"] for coeff 2.9000000000000004
+Time taken: 10, solution: None
+Solving puzzle with solution ["R'", "F'", 'U', "L'", "B'", "L'", "U'", 'F', "D'", "D'", "R'", 'F'] for coeff 2.9000000000000004
+Time taken: 10, solution: None
+Solving puzzle with solution ['D', "B'", "B'", "D'", 'L', "F'", "R'", "F'", 'L', "U'", "U'", "R'"] for coeff 2.9000000000000004
+Time taken: 10, solution: None
+Solving puzzle with solution ["D'", "R'", "B'", 'L', 'U', "L'", "D'", "D'", "R'", 'F', "U'", "L'"] for coeff 2.9000000000000004
+Time taken: 10, solution: None
+Solving puzzle with solution ["R'", "R'", "B'", "F'", "L'", "D'", "L'", "B'", 'R', 'D', "F'", "U'"] for coeff 2.9000000000000004
+Time taken: 10, solution: None
+Solving puzzle with solution ["R'", "R'", "B'", "D'", 'F', "L'", 'D', 'L', "U'", "U'", "R'", "F'"] for coeff 3.0
+Time taken: 10, solution: None
+Solving puzzle with solution ["F'", "L'", 'B', 'B', 'R', "D'", "D'", "F'", 'R', "U'", "L'", "L'"] for coeff 3.0
+Time taken: 10, solution: None
+Solving puzzle with solution ["U'", "B'", 'L', "B'", 'D', "R'", "F'", "F'", "R'", "D'", 'F', "L'"] for coeff 3.0
+Time taken: 10, solution: None
+Solving puzzle with solution ["R'", "F'", 'U', "L'", "B'", "L'", "U'", 'F', "D'", "D'", "R'", 'F'] for coeff 3.0
+Time taken: 10, solution: None
+Solving puzzle with solution ['D', "B'", "B'", "D'", 'L', "F'", "R'", "F'", 'L', "U'", "U'", "R'"] for coeff 3.0
+Time taken: 10, solution: None
+Solving puzzle with solution ["D'", "R'", "B'", 'L', 'U', "L'", "D'", "D'", "R'", 'F', "U'", "L'"] for coeff 3.0
+Time taken: 10, solution: None
+Solving puzzle with solution ["R'", "R'", "B'", "F'", "L'", "D'", "L'", "B'", 'R', 'D', "F'", "U'"] for coeff 3.0
+Time taken: 10, solution: None
